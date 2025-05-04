@@ -1,16 +1,6 @@
 # flutter_native_splash_screen_example
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter project covers all the revised content of the Flutter Module.
+If you are interested, please disregard the issues and warnings. This content is out of context, completely focused on learning. The notes are in my native language (Brazilian Portuguese) to make it easier for me to understand.
+This project includes the following content:
+Flutter native splash.
